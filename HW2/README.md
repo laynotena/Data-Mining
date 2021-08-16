@@ -6,7 +6,7 @@ DataSet : [106年新竹站_20180309.xls](https://github.com/laynotena/Data-Minin
 
 Using Model : Logistic Regression / Random Forest Regressor / Mean_Absolute_Error (MAE)
 
-Definition of Homework : [HW2題目.PNG]( https://github.com/laynotena/Data-Mining/blob/main/HW2/DMHW2.PNG )
+Definition of Homework : [HW2題目.PNG](https://github.com/laynotena/Data-Mining/blob/main/HW2/HW2%E9%A1%8C%E7%9B%AE.PNG )
 
 Code : [data_mining_hw02_0753524.py](https://github.com/laynotena/Data-Mining/blob/main/HW2/data_mining_hw02_0753524.py)
 
