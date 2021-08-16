@@ -1,6 +1,6 @@
 HW2
 
-Time series analysis and prediction of PM2.5 
+Time Series Regression
 
 DataSet : [106年新竹站_20180309.xls](https://github.com/laynotena/Data-Mining/blob/main/HW2/106%E5%B9%B4%E6%96%B0%E7%AB%B9%E7%AB%99_20180309.xls) ( https://taqm.epa.gov.tw/taqm/tw/YearlyDataDownload.aspx )
 
