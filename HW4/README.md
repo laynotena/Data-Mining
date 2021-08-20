@@ -6,8 +6,7 @@ DataSet : [training_label.txt](https://github.com/laynotena/Data-Mining/blob/mai
 
 Using Model : Keras / Tokenizer / RNN / LSTM
 
-Notes：[RNN, LSTM](https://github.com/laynotena/Data-Mining/blob/main/HW4/RNN%2C%20LSTM%20%5BPython%5D.md) (https://hackmd.io/nggob9dKTMuDg-yMZnIMnA) 
-       [Keras](https://github.com/laynotena/Data-Mining/blob/main/HW4/Keras%20%5B%20Python%20%5D.md) (https://hackmd.io/78pgxeUwTmi2FgnFg8CdsQ) 
+Notes：[RNN, LSTM](https://hackmd.io/nggob9dKTMuDg-yMZnIMnA) / [Keras](https://hackmd.io/78pgxeUwTmi2FgnFg8CdsQ) 
 
 Definition of Homework : [HW4題目.PNG]( https://github.com/laynotena/Data-Mining/blob/main/HW4/HW4%E9%A1%8C%E7%9B%AE.PNG )
 
