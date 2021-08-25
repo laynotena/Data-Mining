@@ -4,7 +4,7 @@ Time Series Regression
 
 DataSet : [106年新竹站_20180309.xls](https://github.com/laynotena/Data-Mining/blob/main/HW2/106%E5%B9%B4%E6%96%B0%E7%AB%B9%E7%AB%99_20180309.xls) ( https://taqm.epa.gov.tw/taqm/tw/YearlyDataDownload.aspx )
 
-Using Model : Logistic Regression / Random Forest Regressor / Mean_Absolute_Error (MAE)
+Using Model : Linear Regression / Random Forest Regressor / Mean_Absolute_Error (MAE)
 
 Definition of Homework : [HW2題目.PNG](https://github.com/laynotena/Data-Mining/blob/main/HW2/HW2%E9%A1%8C%E7%9B%AE.PNG )
 
